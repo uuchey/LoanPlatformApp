@@ -1,6 +1,11 @@
 This README file explains how to use the program Crowd-Sourcing Loan Platform.
 This is Version 1.0 of the program
 
+About
+------------
+This is crowd-sourcing loan platform which will allow borrowers to take out loans that are made up of multiple loans from different lenders.
+Users who want to borrow money (borrowers) will enter a loan request, which consists of the amount they want to borrow and the duration they want to borrow the money for. Users who want to lend money (lenders) will enter the amount of money they are willing to lend towards this loan and the interest rate (APR) they require.
+
 Installation - RUN IN AN IDE
 -----------
 
