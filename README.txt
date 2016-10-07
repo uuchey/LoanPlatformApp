@@ -62,6 +62,12 @@ Enter ID: 1157023573
 ->Available Loan: 600
 ->Available APR: 8.0
 
+Overview of Client Server Interaction/Architecture
+-----------------------------------------------------
+In other to develop the web application, I would use Tomcat as my Web Server to handle serving dynamic content.
+On top of the server, I would have a web framework, preferably Spring. This is because I can define objects to be used in my forms and then when they are submitted the entire object is passed back so there is less work. There is also Spring security which I can use for Auth. Then will add the ORM and a build tool such as Maven to build externally from the IDE.
+On my front 
+
 
 Development.
 -------------
